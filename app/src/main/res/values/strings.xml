@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RichLink</string>
+    <string name="enter_url">Enter URL...</string>
+    <string name="process">Process</string>
+</resources>
